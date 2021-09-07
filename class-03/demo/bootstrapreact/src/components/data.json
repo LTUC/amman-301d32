@@ -1,0 +1,22 @@
+[
+    {
+        "name":"John",
+        "age":23,
+        "title":"Software engineer"
+    },
+    {
+        "name":"Jane",
+        "age":35,
+        "title":"Project manager"
+    },
+    {
+        "name":"Dane",
+        "age":28,
+        "title":"Senior Software engineer"
+    },
+    {
+        "name":"Ahmad",
+        "age":25,
+        "title":"Database admin"
+    }
+]
