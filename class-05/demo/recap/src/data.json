@@ -1,0 +1,32 @@
+[
+    {
+        "student_name":"Rand",
+        "background":"Civil engineer"
+
+    },
+    {
+        "student_name":"Ahmad",
+        "background":"Civil engineer"
+
+    },
+    {
+        "student_name":"Wesam",
+        "background":"Civil engineer"
+
+    },
+    {
+        "student_name":"Waseem Idris",
+        "background":"Software engineer"
+
+    },
+    {
+        "student_name":"Mo'men",
+        "background":"software engineer"
+
+    },
+    {
+        "student_name":"Ehab",
+        "background":"Telecom engineer"
+
+    }
+]
