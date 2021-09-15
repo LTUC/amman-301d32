@@ -1,0 +1,18 @@
+[
+    {
+        "club_name":"Juvi",
+        "stadium_capacity":80000
+    },
+    {
+        "club_name":"Barca",
+        "stadium_capacity":100000
+    },
+    {
+        "club_name":"Madrid",
+        "stadium_capacity":120000
+    },
+    {
+        "club_name":"Bayern",
+        "stadium_capacity":70000
+    }
+]
