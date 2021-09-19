@@ -16,6 +16,9 @@
 
 `use <db_name>`
 
+## Create database
+`use <db_name>`
+
 ## Show collections
 
 `show collections`
